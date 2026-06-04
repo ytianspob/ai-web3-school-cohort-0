@@ -1,5 +1,3 @@
-# Project Proposal：SafeAgent Wallet Assistant
-
 ## 1. 目标用户
 
 本项目面向以下三类用户：
